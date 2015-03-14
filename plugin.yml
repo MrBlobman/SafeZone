@@ -1,0 +1,6 @@
+name: SafeZone
+main: me.MrBlobman.SafeZone.SafeZone
+version: 1.0.0
+description: >
+             Stop players from safezoning.
+depend: [WorldGuard, CombatLog]

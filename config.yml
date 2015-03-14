@@ -1,0 +1,7 @@
+Messages:
+  ChatPrefix: '&4[&cRCCombat&4] '
+  NotSafe: '<prefix> &cYou will be safe in &7<safeZoneTime>&cs if you remain in the safezone.'
+  Safe: '<prefix> &aYou are now safe.'
+  CountdownCancelled: '<prefix> &cCountdown cancelled.'
+Settings:
+  SafeZoneTime: 7
